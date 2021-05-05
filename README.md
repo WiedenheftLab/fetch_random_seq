@@ -11,7 +11,7 @@ SeqIO package from Bio is required to fetch flank sequences. Additionally, tqdm 
         
 Syntax:
 
-        python fetch_random_seq.py -i demo.fasta
+        python fetch_random_seq.py -i demo.fasta -n 1000
 
 fetch_random_seq dependencies:
 
