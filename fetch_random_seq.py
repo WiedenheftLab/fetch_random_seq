@@ -43,7 +43,7 @@ fasta_unalignr dependencies:
 	
 Input Paramaters (REQUIRED):
 ----------------------------
-	-i/--input		FASTA			Specify a multi sequence alignment fasta file.
+	-i/--input		FASTA			Specify a fasta file.
 
 	-n/--input		Number			Specify number of sequences to be fetched randomly.
 
